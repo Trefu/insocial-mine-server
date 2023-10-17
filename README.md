@@ -10,7 +10,7 @@
 
 
 
-[![Build Status](https://pbs.twimg.com/profile_images/778706890914095109/fhMDH9o6_400x400.jpg)](https://maven.minecraftforge.net/net/minecraftforge/forge/1.18.2-40.1.80/forge-1.18.2-40.1.80-installer.jar)
+[![Build Status](https://adfoc.us/serve/?id=27122897208538)
 
 Antes de meter los mods asegurarse de
 
